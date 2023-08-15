@@ -1,0 +1,30 @@
+.Child1{
+background: rgb(54, 37, 37);
+}
+.Child2{
+    background: purple;
+    }
+ 
+    .Child3{
+        background: blueviolet;
+        }   
+.article{
+  
+    width: 400px;
+    color:black ;
+   margin-top: 10px;
+   padding: 5px;
+margin-left: 38%;
+}
+.article2{
+  
+    width: 400px;
+    color:black ;
+   margin-top: 10px;
+   padding: 5px;
+margin-left: 38%;
+}
+.h2{
+    background: white;
+    text-align: center;
+}
